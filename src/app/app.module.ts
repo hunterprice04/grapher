@@ -19,7 +19,7 @@ import { GraphComponent } from './graph/graph.component';
     BrowserAnimationsModule,
     NbThemeModule.forRoot({ name: 'dark' }),
     NbLayoutModule,
-    NbEvaIconsModule,
+    NbEvaIconsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
